@@ -1,0 +1,78 @@
+a:link {background-color:none;}
+a:visited {background-color:none;}
+a:hover {background-color:rgba(97, 88, 86, 0.349);}
+a:active {background-color:rgba(97, 88, 86, 0.349);}
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+a{
+    color:black;
+}
+
+div{margin:0;border:0;padding:0;}
+
+.top{
+    background-color: rgba(161, 155, 168, 0.103);
+    position: relative;
+    left:0px;
+    top:0px;
+    right: 0px;
+    height: 100px;
+    
+}
+
+.title{
+    float: left;
+    position:relative;
+    left:50px;
+    top:0px;
+}
+._span{
+    text-align: center;
+    line-height:100px;
+    float: left;
+    position:relative;
+    float: left;
+    top:0px;
+    left: 500px;
+    width: 500px;
+    height: 100px;
+}
+.c_span{
+    width: 70px;
+    float: left;
+    position: relative;
+    left: 20px;
+}
+
+.document{
+    position: relative;
+    top:10px;
+    left:200px;
+    width: 800px;
+    height: 800px;
+}
+
+.doc{
+    position: relative;
+    top:5px;
+    left:400px;
+    height: 130px;
+    width: 300px;
+    border-bottom-color: darkgray;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+}
+
+.end{
+    position: relative;
+    height: 100px;
+    top:30px;
+    left: 0px;
+    right: 0px;
+    border-top-color: darkgray;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
